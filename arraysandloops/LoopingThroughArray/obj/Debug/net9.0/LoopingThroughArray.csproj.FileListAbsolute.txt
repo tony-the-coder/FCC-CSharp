@@ -1,0 +1,14 @@
+C:\Users\tonyt\Desktop\Development\LearnMicrosoft\FCC-CSharp\arraysandloops\LoopingThroughArray\bin\Debug\net9.0\LoopingThroughArray.exe
+C:\Users\tonyt\Desktop\Development\LearnMicrosoft\FCC-CSharp\arraysandloops\LoopingThroughArray\bin\Debug\net9.0\LoopingThroughArray.deps.json
+C:\Users\tonyt\Desktop\Development\LearnMicrosoft\FCC-CSharp\arraysandloops\LoopingThroughArray\bin\Debug\net9.0\LoopingThroughArray.runtimeconfig.json
+C:\Users\tonyt\Desktop\Development\LearnMicrosoft\FCC-CSharp\arraysandloops\LoopingThroughArray\bin\Debug\net9.0\LoopingThroughArray.dll
+C:\Users\tonyt\Desktop\Development\LearnMicrosoft\FCC-CSharp\arraysandloops\LoopingThroughArray\bin\Debug\net9.0\LoopingThroughArray.pdb
+C:\Users\tonyt\Desktop\Development\LearnMicrosoft\FCC-CSharp\arraysandloops\LoopingThroughArray\obj\Debug\net9.0\LoopingThroughArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tonyt\Desktop\Development\LearnMicrosoft\FCC-CSharp\arraysandloops\LoopingThroughArray\obj\Debug\net9.0\LoopingThroughArray.AssemblyInfoInputs.cache
+C:\Users\tonyt\Desktop\Development\LearnMicrosoft\FCC-CSharp\arraysandloops\LoopingThroughArray\obj\Debug\net9.0\LoopingThroughArray.AssemblyInfo.cs
+C:\Users\tonyt\Desktop\Development\LearnMicrosoft\FCC-CSharp\arraysandloops\LoopingThroughArray\obj\Debug\net9.0\LoopingThroughArray.csproj.CoreCompileInputs.cache
+C:\Users\tonyt\Desktop\Development\LearnMicrosoft\FCC-CSharp\arraysandloops\LoopingThroughArray\obj\Debug\net9.0\LoopingThroughArray.dll
+C:\Users\tonyt\Desktop\Development\LearnMicrosoft\FCC-CSharp\arraysandloops\LoopingThroughArray\obj\Debug\net9.0\refint\LoopingThroughArray.dll
+C:\Users\tonyt\Desktop\Development\LearnMicrosoft\FCC-CSharp\arraysandloops\LoopingThroughArray\obj\Debug\net9.0\LoopingThroughArray.pdb
+C:\Users\tonyt\Desktop\Development\LearnMicrosoft\FCC-CSharp\arraysandloops\LoopingThroughArray\obj\Debug\net9.0\LoopingThroughArray.genruntimeconfig.cache
+C:\Users\tonyt\Desktop\Development\LearnMicrosoft\FCC-CSharp\arraysandloops\LoopingThroughArray\obj\Debug\net9.0\ref\LoopingThroughArray.dll

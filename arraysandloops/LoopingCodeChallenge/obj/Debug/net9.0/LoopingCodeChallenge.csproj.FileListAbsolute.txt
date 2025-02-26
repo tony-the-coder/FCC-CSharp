@@ -1,0 +1,14 @@
+C:\Users\tonyt\Desktop\Development\LearnMicrosoft\FCC-CSharp\arraysandloops\LoopingCodeChallenge\bin\Debug\net9.0\LoopingCodeChallenge.exe
+C:\Users\tonyt\Desktop\Development\LearnMicrosoft\FCC-CSharp\arraysandloops\LoopingCodeChallenge\bin\Debug\net9.0\LoopingCodeChallenge.deps.json
+C:\Users\tonyt\Desktop\Development\LearnMicrosoft\FCC-CSharp\arraysandloops\LoopingCodeChallenge\bin\Debug\net9.0\LoopingCodeChallenge.runtimeconfig.json
+C:\Users\tonyt\Desktop\Development\LearnMicrosoft\FCC-CSharp\arraysandloops\LoopingCodeChallenge\bin\Debug\net9.0\LoopingCodeChallenge.dll
+C:\Users\tonyt\Desktop\Development\LearnMicrosoft\FCC-CSharp\arraysandloops\LoopingCodeChallenge\bin\Debug\net9.0\LoopingCodeChallenge.pdb
+C:\Users\tonyt\Desktop\Development\LearnMicrosoft\FCC-CSharp\arraysandloops\LoopingCodeChallenge\obj\Debug\net9.0\LoopingCodeChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tonyt\Desktop\Development\LearnMicrosoft\FCC-CSharp\arraysandloops\LoopingCodeChallenge\obj\Debug\net9.0\LoopingCodeChallenge.AssemblyInfoInputs.cache
+C:\Users\tonyt\Desktop\Development\LearnMicrosoft\FCC-CSharp\arraysandloops\LoopingCodeChallenge\obj\Debug\net9.0\LoopingCodeChallenge.AssemblyInfo.cs
+C:\Users\tonyt\Desktop\Development\LearnMicrosoft\FCC-CSharp\arraysandloops\LoopingCodeChallenge\obj\Debug\net9.0\LoopingCodeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\tonyt\Desktop\Development\LearnMicrosoft\FCC-CSharp\arraysandloops\LoopingCodeChallenge\obj\Debug\net9.0\LoopingCodeChallenge.dll
+C:\Users\tonyt\Desktop\Development\LearnMicrosoft\FCC-CSharp\arraysandloops\LoopingCodeChallenge\obj\Debug\net9.0\refint\LoopingCodeChallenge.dll
+C:\Users\tonyt\Desktop\Development\LearnMicrosoft\FCC-CSharp\arraysandloops\LoopingCodeChallenge\obj\Debug\net9.0\LoopingCodeChallenge.pdb
+C:\Users\tonyt\Desktop\Development\LearnMicrosoft\FCC-CSharp\arraysandloops\LoopingCodeChallenge\obj\Debug\net9.0\LoopingCodeChallenge.genruntimeconfig.cache
+C:\Users\tonyt\Desktop\Development\LearnMicrosoft\FCC-CSharp\arraysandloops\LoopingCodeChallenge\obj\Debug\net9.0\ref\LoopingCodeChallenge.dll

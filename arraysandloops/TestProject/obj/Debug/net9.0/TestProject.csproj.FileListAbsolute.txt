@@ -1,0 +1,14 @@
+C:\Users\tonyt\Desktop\Development\LearnMicrosoft\FCC-CSharp\arraysandloops\TestProject\bin\Debug\net9.0\TestProject.exe
+C:\Users\tonyt\Desktop\Development\LearnMicrosoft\FCC-CSharp\arraysandloops\TestProject\bin\Debug\net9.0\TestProject.deps.json
+C:\Users\tonyt\Desktop\Development\LearnMicrosoft\FCC-CSharp\arraysandloops\TestProject\bin\Debug\net9.0\TestProject.runtimeconfig.json
+C:\Users\tonyt\Desktop\Development\LearnMicrosoft\FCC-CSharp\arraysandloops\TestProject\bin\Debug\net9.0\TestProject.dll
+C:\Users\tonyt\Desktop\Development\LearnMicrosoft\FCC-CSharp\arraysandloops\TestProject\bin\Debug\net9.0\TestProject.pdb
+C:\Users\tonyt\Desktop\Development\LearnMicrosoft\FCC-CSharp\arraysandloops\TestProject\obj\Debug\net9.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tonyt\Desktop\Development\LearnMicrosoft\FCC-CSharp\arraysandloops\TestProject\obj\Debug\net9.0\TestProject.AssemblyInfoInputs.cache
+C:\Users\tonyt\Desktop\Development\LearnMicrosoft\FCC-CSharp\arraysandloops\TestProject\obj\Debug\net9.0\TestProject.AssemblyInfo.cs
+C:\Users\tonyt\Desktop\Development\LearnMicrosoft\FCC-CSharp\arraysandloops\TestProject\obj\Debug\net9.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\tonyt\Desktop\Development\LearnMicrosoft\FCC-CSharp\arraysandloops\TestProject\obj\Debug\net9.0\TestProject.dll
+C:\Users\tonyt\Desktop\Development\LearnMicrosoft\FCC-CSharp\arraysandloops\TestProject\obj\Debug\net9.0\refint\TestProject.dll
+C:\Users\tonyt\Desktop\Development\LearnMicrosoft\FCC-CSharp\arraysandloops\TestProject\obj\Debug\net9.0\TestProject.pdb
+C:\Users\tonyt\Desktop\Development\LearnMicrosoft\FCC-CSharp\arraysandloops\TestProject\obj\Debug\net9.0\TestProject.genruntimeconfig.cache
+C:\Users\tonyt\Desktop\Development\LearnMicrosoft\FCC-CSharp\arraysandloops\TestProject\obj\Debug\net9.0\ref\TestProject.dll
